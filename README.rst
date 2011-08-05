@@ -1,4 +1,4 @@
-Harvests records from an [oai-pmh](http://www.openarchives.org/OAI/openarchivesprotocol.html) repository and stores them in a [pairtree](https://confluence.ucop.edu/display/Curation/PairTree). 
+oai2pairtree.py harvests records from an `oai-pmh <http://www.openarchives.org/OAI/openarchivesprotocol.html>`_ repository and stores them in a `pairtree <https://confluence.ucop.edu/display/Curation/PairTree>`_ on the filesystem. 
 
 For example:
 
