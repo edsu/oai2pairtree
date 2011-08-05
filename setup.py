@@ -9,4 +9,5 @@ setup(
     py_modules = ['oai2pairtree',],
     scripts = ['oai2pairtree.py'],
     platforms = ['POSIX'],
+    install_requires = ['lxml', 'ptree']
 )
