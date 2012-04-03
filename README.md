@@ -29,7 +29,7 @@ or:
 
 or, if you prefer:
 
-    git clone https://edsu@github.com/edsu/oai2pairtree.git
+    git clone https://github.com/edsu/oai2pairtree.git
     cd oai2pairtree
     python setup.py install
 
