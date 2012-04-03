@@ -19,9 +19,21 @@ or if you want to also limit to a particular kind of record metadata:
 Installation
 ------------
 
+oai2pairtree requires that the [lxml](http://lxml.de/) and [ptree](http://pypi.python.org/pypi/ptree) to run.  The best way to get these is to:
+
     easy_install oai2pairtree
 
 or:
 
+    pip install oai2pairtree
+
+or, if you prefer:
+
+    git clone https://edsu@github.com/edsu/oai2pairtree.git
+    cd oai2pairtree
     python setup.py install
 
+License
+-------
+
+* CC0
